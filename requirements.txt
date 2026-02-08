@@ -1,0 +1,11 @@
+# --- Núcleo de Infraestructura ---
+pulumi>=3.0.0
+pulumi-aws>=6.0.0
+pulumi-gcp>=7.0.0
+
+# --- Gestión de Entorno y Configuración ---
+python-dotenv>=1.0.0
+
+# --- Utilidades de Reporteo (Gobernanza) ---
+# Necesario para reportes de cumplimiento complejos (Art. 31 y 32)
+pandas>=2.0.0
