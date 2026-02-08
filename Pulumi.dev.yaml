@@ -1,0 +1,4 @@
+encryptionsalt: v1:aQb6bWyZ3qg=:v1:jNlYOByppRNwBo1/:R2bdcAF9N2Qn1XV7ACfaAKh6ZqSrkA==
+config:
+  gcp:project: banca-proyecto-test
+  banco-mex-emulacion:ejecutar_snapshots: "true"

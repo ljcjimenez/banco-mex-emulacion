@@ -1,0 +1,4 @@
+=== REPORTE DE CUMPLIMIENTO BANCARIO (SPEI) ===
+Cifrado AWS (Art. 34): ACTIVO
+ID Auditoria S3 (Art. 28): banco-mex-audit-logs-6cabcf1
+===============================================
